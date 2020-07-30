@@ -1,5 +1,5 @@
 # 3D PLATFORM DEMO LEVEL
-This is a small level I had to do for my _3D Animation, videogames and interactive environments_ course. 
+This is a small level I had to do for my _3D Animation, videogames and interactive environments_ course in 2017. 
 - It was created on Unity 5.6.2p4. 
 - Code language is C#
 - Models done in _3DS Max_
