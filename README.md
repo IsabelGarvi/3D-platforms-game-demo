@@ -1,5 +1,5 @@
 # 3D PLATFORM DEMO LEVEL
-This is a small level I had to do for my 3D Animation, videogames and interactive environments Course. 
+This is a small level I had to do for my _3D Animation, videogames and interactive environments_ Course. 
 Everything was done by me: models (on 3DS Max), textures (Substance Painter) and code. Feel free to download and play with it or whatever.
 
 The story is: you are a scientist and you realise that something on the lab is wrong. Pseudoscience is everywhere. Also ghosts. A creature from a 
