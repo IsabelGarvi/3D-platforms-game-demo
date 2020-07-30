@@ -1,6 +1,9 @@
 # 3D PLATFORM DEMO LEVEL
-This is a small level I had to do for my _3D Animation, videogames and interactive environments_ Course. 
-Everything was done by me: models (3DS Max), textures (Substance Painter) and code. Feel free to download and play with it or whatever.
+This is a small level I had to do for my _3D Animation, videogames and interactive environments_ course. 
+- It was created on Unity 5.6.2p4. 
+- Code language is C#
+- Models done in _3DS Max_
+- Textures done in _Substance Painter_
 
 The story is: you are a scientist and you realise that something on the lab is wrong. Pseudoscience is everywhere. Also ghosts. A creature from a 
 failed experiment. And the BIG BOSS himself. GOD. 
